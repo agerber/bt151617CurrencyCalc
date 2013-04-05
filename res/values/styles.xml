@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="label" parent="@android:style/TextAppearance">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_weight">.33</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">25sp</item>
+         <item name="android:textColor">#66FFFF</item>
+    </style>
+
+    <style name="label.sub">
+        <item name="android:textColor">#666666</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    
+        <style name="label.home">
+        <item name="android:textColor">#39F</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    
+
+
+</resources>
